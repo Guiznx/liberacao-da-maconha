@@ -84,7 +84,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Pontos a favor:redução da violência relacionada ao trafico de drogas, geração de receita atraves de impostos que podem ser investidos em saúde e educação -- Pontos contra:preocupações com os impactos na saúde pública, principalmente entre jovens, riscos de que a legalização não resolva problema mais amplos do uso de drogas";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
